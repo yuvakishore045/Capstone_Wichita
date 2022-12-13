@@ -1,0 +1,222 @@
+absl-py==1.3.0
+aiohttp==3.8.1
+aiosignal==1.2.0
+alabaster @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/alabaster/alabaster-0.7.12
+anyio==3.6.2
+appdirs @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/appdirs/appdirs-1.4.4
+asn1crypto @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/asn1crypto/asn1crypto-1.4.0
+astunparse==1.6.3
+async-timeout==4.0.2
+atomicwrites @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/atomicwrites/atomicwrites-1.4.0
+attrs @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/attrs/attrs-21.2.0
+audioread==3.0.0
+Babel @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/Babel/Babel-2.9.1
+backports.entry-points-selectable @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/backportsentry_points_selectable/backports.entry_points_selectable-1.1.0
+backports.functools-lru-cache @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/backportsfunctools_lru_cache/backports.functools_lru_cache-1.6.4
+bcrypt @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/bcrypt/bcrypt-3.2.0
+bitstring @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/bitstring/bitstring-3.1.9
+blist @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/blist/blist-1.3.6
+CacheControl @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/CacheControl/CacheControl-0.12.6
+cachetools==5.2.0
+cachy @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/cachy/cachy-0.3.0
+certifi @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/certifi/certifi-2021.5.30
+cffi @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/cffi/cffi-1.14.6
+chardet @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/chardet/chardet-4.0.0
+charset-normalizer @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/charsetnormalizer/charset-normalizer-2.0.4
+cleo @ file:///opt/beoshock/sources/p/Python/extensions/cleo-0.8.1-py2.py3-none-any.whl
+click @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/click/click-8.0.1
+clikit @ file:///opt/beoshock/sources/p/Python/extensions/clikit-0.6.2-py2.py3-none-any.whl
+colorama @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/colorama/colorama-0.4.4
+contourpy==1.0.6
+crashtest @ file:///opt/beoshock/sources/p/Python/extensions/crashtest-0.3.1-py3-none-any.whl
+cryptography @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/cryptography/cryptography-3.4.7
+cycler==0.11.0
+Cython @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/Cython/Cython-0.29.24
+datasets==2.4.0
+decorator @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/decorator/decorator-5.0.9
+deepspeech==0.9.3
+dill==0.3.5.1
+distlib @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/distlib/distlib-0.3.2
+docopt @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/docopt/docopt-0.6.2
+docutils @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/docutils/docutils-0.17.1
+ecdsa @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/ecdsa/ecdsa-0.17.0
+fastapi==0.88.0
+ffmpy==0.3.0
+filelock @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/filelock/filelock-3.0.12
+flatbuffers==22.11.23
+flit @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/flit/flit-3.3.0
+flit_core @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/flitcore/flit_core-3.3.0
+fonttools==4.38.0
+frozenlist==1.3.1
+fsspec==2022.8.2
+future @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/future/future-0.18.2
+gast==0.4.0
+glob2 @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/glob2/glob2-0.7
+google-auth==2.14.1
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+gradio==3.12.0
+grpcio==1.51.1
+h11==0.12.0
+h5py==3.7.0
+happytransformer==2.4.1
+html5lib @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/html5lib/html5lib-1.1
+httpcore==0.15.0
+httpx==0.23.1
+huggingface-hub==0.9.1
+idna @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/idna/idna-3.2
+imagesize @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/imagesize/imagesize-1.2.0
+importlib-metadata @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/importlib_metadata/importlib_metadata-4.6.3
+importlib-resources @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/importlib_resources/importlib_resources-5.2.2
+iniconfig @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/iniconfig/iniconfig-1.1.1
+intervaltree @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/intervaltree/intervaltree-3.1.0
+intreehooks @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/intreehooks/intreehooks-1.0
+ipaddress @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/ipaddress/ipaddress-1.0.23
+ipynb-py-convert==0.4.6
+jeepney @ file:///opt/beoshock/sources/p/Python/extensions/jeepney-0.7.1-py3-none-any.whl
+Jinja2 @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/Jinja2/Jinja2-3.0.1
+jiwer==2.5.1
+joblib @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/joblib/joblib-1.0.1
+jsonschema @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/jsonschema/jsonschema-3.2.0
+keras==2.11.0
+keyring @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/keyring/keyring-21.2.0
+keyrings.alt @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/keyringsalt/keyrings.alt-4.1.0
+kiwisolver==1.4.4
+Levenshtein==0.20.2
+liac-arff @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/liacarff/liac-arff-2.5.0
+libclang==14.0.6
+librosa==0.9.2
+linkify-it-py==1.0.3
+llvmlite==0.39.1
+lockfile @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/lockfile/lockfile-0.12.2
+Markdown==3.4.1
+markdown-it-py==2.1.0
+MarkupSafe==2.1.1
+matplotlib==3.6.1
+mdit-py-plugins==0.3.1
+mdurl==0.1.2
+mock @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/mock/mock-4.0.3
+more-itertools @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/moreitertools/more-itertools-8.8.0
+msgpack @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/msgpack/msgpack-1.0.2
+multidict==6.0.2
+multiprocess==0.70.13
+netaddr @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/netaddr/netaddr-0.8.0
+netifaces @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/netifaces/netifaces-0.11.0
+nose @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/nose/nose-1.3.7
+numba==0.56.3
+numpy==1.23.3
+nvidia-cublas-cu11==11.10.3.66
+nvidia-cuda-nvrtc-cu11==11.7.99
+nvidia-cuda-runtime-cu11==11.7.99
+nvidia-cudnn-cu11==8.5.0.96
+oauthlib==3.2.2
+opt-einsum==3.3.0
+orjson==3.8.2
+packaging @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/packaging/packaging-20.9
+pandas==1.4.4
+paramiko @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/paramiko/paramiko-2.7.2
+pastel @ file:///opt/beoshock/sources/p/Python/extensions/pastel-0.2.1-py2.py3-none-any.whl
+pathlib2 @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pathlib2/pathlib2-2.3.6
+paycheck @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/paycheck/paycheck-1.0.2
+pbr @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pbr/pbr-5.6.0
+pexpect @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pexpect/pexpect-4.8.0
+Pillow==9.3.0
+pkginfo @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pkginfo/pkginfo-1.7.1
+platformdirs @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/platformdirs/platformdirs-2.2.0
+pluggy @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pluggy/pluggy-0.13.1
+poetry @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/poetry/poetry-1.1.7
+poetry-core @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/poetrycore/poetry-core-1.0.3
+pooch==1.6.0
+protobuf==3.19.6
+psutil @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/psutil/psutil-5.8.0
+ptyprocess @ file:///opt/beoshock/sources/p/Python/extensions/ptyprocess-0.7.0-py2.py3-none-any.whl
+py @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/py/py-1.10.0
+py-expression-eval @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/py_expression_eval/py_expression_eval-0.3.13
+pyarrow==9.0.0
+pyasn1 @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pyasn1/pyasn1-0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pycparser/pycparser-2.20
+pycrypto @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pycrypto/pycrypto-2.6.1
+pycryptodome==3.16.0
+pydantic==1.10.2
+pydub==0.25.1
+Pygments @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/Pygments/Pygments-2.9.0
+pylev @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pylev/pylev-1.4.0
+PyNaCl @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/PyNaCl/PyNaCl-1.4.0
+pyparsing @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pyparsing/pyparsing-2.4.7
+pyrsistent @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pyrsistent/pyrsistent-0.18.0
+pytest @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pytest/pytest-6.2.4
+pythainlp==3.1.1
+python-dateutil @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pythondateutil/python-dateutil-2.8.2
+python-multipart==0.0.5
+pytoml @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pytoml/pytoml-0.1.21
+pytz @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/pytz/pytz-2021.1
+PyYAML==6.0
+rapidfuzz==2.11.1
+regex @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/regex/regex-2021.8.3
+requests @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/requests/requests-2.26.0
+requests-oauthlib==1.3.1
+requests-toolbelt @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/requeststoolbelt/requests-toolbelt-0.9.1
+resampy==0.4.2
+responses==0.18.0
+rfc3986==1.5.0
+rsa==4.9
+sacremoses==0.0.53
+scandir @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/scandir/scandir-1.10.0
+scikit-learn==1.1.2
+scipy==1.9.2
+SecretStorage @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/SecretStorage/SecretStorage-3.3.1
+semantic-version @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/semantic_version/semantic_version-2.8.5
+sentencepiece==0.1.97
+setuptools-rust @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/setuptoolsrust/setuptools-rust-0.12.1
+setuptools-scm @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/setuptools_scm/setuptools_scm-6.0.1
+shellingham @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/shellingham/shellingham-1.4.0
+simplegeneric @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/simplegeneric/simplegeneric-0.8.1
+simplejson @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/simplejson/simplejson-3.17.3
+six @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/six/six-1.16.0
+sniffio==1.3.0
+snowballstemmer @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/snowballstemmer/snowballstemmer-2.1.0
+sortedcontainers @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/sortedcontainers/sortedcontainers-2.4.0
+soundfile==0.11.0
+Sphinx @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/Sphinx/Sphinx-4.1.2
+sphinx-bootstrap-theme @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/sphinxbootstraptheme/sphinx-bootstrap-theme-0.7.1
+sphinxcontrib-applehelp @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/sphinxcontribapplehelp/sphinxcontrib-applehelp-1.0.2
+sphinxcontrib-devhelp @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/sphinxcontribdevhelp/sphinxcontrib-devhelp-1.0.2
+sphinxcontrib-htmlhelp @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/sphinxcontribhtmlhelp/sphinxcontrib-htmlhelp-2.0.0
+sphinxcontrib-jsmath @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/sphinxcontribjsmath/sphinxcontrib-jsmath-1.0.1
+sphinxcontrib-qthelp @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/sphinxcontribqthelp/sphinxcontrib-qthelp-1.0.3
+sphinxcontrib-serializinghtml @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/sphinxcontribserializinghtml/sphinxcontrib-serializinghtml-1.1.5
+sphinxcontrib-websupport @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/sphinxcontribwebsupport/sphinxcontrib-websupport-1.2.4
+starlette==0.22.0
+tabulate @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/tabulate/tabulate-0.8.9
+tensorboard==2.11.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.11.0
+tensorflow-estimator==2.11.0
+tensorflow-io-gcs-filesystem==0.28.0
+termcolor==2.1.1
+threadpoolctl @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/threadpoolctl/threadpoolctl-2.2.0
+tokenizers==0.10.3
+toml @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/toml/toml-0.10.2
+tomlkit @ file:///opt/beoshock/sources/p/Python/extensions/tomlkit-0.7.2-py2.py3-none-any.whl
+torch==1.13.0
+torchaudio==0.13.0
+tqdm==4.64.1
+transformers==4.11.3
+typing_extensions==4.4.0
+uc-micro-py==1.0.1
+ujson @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/ujson/ujson-4.0.2
+urllib3 @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/urllib3/urllib3-1.26.6
+uvicorn==0.20.0
+virtualenv @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/virtualenv/virtualenv-20.7.0
+wcwidth @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/wcwidth/wcwidth-0.2.5
+webencodings @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/webencodings/webencodings-0.5.1
+websockets==10.4
+Werkzeug==2.2.2
+wrapt==1.14.1
+xlrd @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/xlrd/xlrd-2.0.1
+xxhash==3.0.0
+yarl==1.8.1
+zipfile36 @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/zipfile36/zipfile36-0.1.3
+zipp @ file:///tmp/easybuilder/Python/3.9.6/GCCcore-11.2.0/zipp/zipp-3.5.0
